@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+<paths xmlns:androids="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="imagenes_incidencias"
+        path=".">
+    </external-path>
+</paths>

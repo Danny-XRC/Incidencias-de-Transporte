@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Incidencias</string>
+    <string name="Imagen_Usuario">Es una imagende usuario</string>
+    <string name="txt_Usuario">Ingrese su usuario</string>
+    <string name="txt_Contraseña">Ingrese su contraseña</string>
+    <string name="btn_Ingresar">Ingresar</string>
+    <string name="tv_Registrar">Registrarse</string>
+
+    <string name="tv_codigo">El codigo es</string>
+    <string name="btn_escaner">Escanear</string>
+
+    <string name="Titulo1">Placa</string>
+    <string name="Dato1">Solicitando...</string>
+    <string name="Titulo2">Marca</string>
+    <string name="Titulo3">Conductor</string>
+    <string name="btnIncidentes">Incidentes</string>
+    <string name="btnRegistro">Registro de Incidentes</string>
+
+    <string name="Ac2Titulo">Incidentes</string>
+
+    <string name="Ac3Titulo">Incidente #</string>
+    <string name="Ac3SubT1">Fecha</string>
+    <string name="Ac3SubT2">Tipo</string>
+    <string name="Ac3SubT3">Descripción</string>
+    <string name="Ac3SubT4">Imagen</string>
+
+    <string name="Ac4Titulo">Registro de Incidentes</string>
+    <string name="Ac4SubT1">Tipo: </string>
+    <string name="Ac4SubT2">Descripción</string>
+    <string name="Ac4Cont1">Describa los detalles</string>
+    <string name="Ac4SubT3">Imagen</string>
+    <string name="Ac4Cont2">Evidencia</string>
+    <string name="Ac4Btn1">Guardar</string>
+
+    <string name="AcRegisTitulo">Registro de Usuario</string>
+    <string name="AcRegisNombre">Nombres</string>
+    <string name="AcRegisApellidos">Apellidos</string>
+    <string name="AcRegisEmail">Email</string>
+    <string name="AcRegisContra">Contraseña</string>
+    <string name="AcRegisAviso">Campo obligatorio</string>
+    <string name="AcRegisBtn1">Registrar</string>
+
+</resources>
